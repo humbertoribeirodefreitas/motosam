@@ -1,2 +1,1 @@
-# motosam
-moto-boi
+motosam
